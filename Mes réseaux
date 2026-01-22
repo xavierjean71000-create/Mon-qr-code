@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Achat Vente 71</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body {
+  background:#0f0f0f;
+  color:white;
+  font-family:Arial, sans-serif;
+  text-align:center;
+  padding:30px;
+}
+h1 {
+  color:#ffcc00;
+}
+p {
+  margin-bottom:30px;
+}
+a {
+  display:block;
+  margin:15px auto;
+  padding:15px;
+  max-width:320px;
+  background:#ffcc00;
+  color:black;
+  text-decoration:none;
+  font-weight:bold;
+  border-radius:12px;
+  font-size:18px;
+}
+a:hover {
+  background:#ffaa00;
+}
+.footer {
+  margin-top:40px;
+  font-size:14px;
+  opacity:0.7;
+}
+</style>
+</head>
+<body>
+
+<h1>🚗 ACHAT VENTE 71</h1>
+<p>Reprise épave & tous véhicules à moteur</p>
+
+<a href="https://www.snapchat.com/add/Mamene711" target="_blank">📸 Snapchat</a>
+
+<a href="https://www.facebook.com/share/1TSFXTqZfJ/" target="_blank">📘 Facebook</a>
+
+<a href="https://www.instagram.com/jeanxavierperso1993" target="_blank">📷 Instagram</a>
+
+<div class="footer">
+📞 06 04 45 55 33<br>
+📧 jeanxavierperso1993@gmail.com
+</div>
+
+</body>
+</html>
